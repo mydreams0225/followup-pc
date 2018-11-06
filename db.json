@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "addy",
+      "phone": "333-444-555",
+      "email": "1224893829@qq.com",
+      "id": "1",
+      "age": 30,
+      "companyId": 1
+    },
+    {
+      "name": "eliplese",
+      "phone": "333-444-555",
+      "email": "1224893829@qq.com",
+      "id": "2",
+      "age": 30,
+      "companyId": 2
+    },
+    {
+      "name": "herry",
+      "phone": "333-444-555",
+      "email": "1224893829@qq.com",
+      "id": "3",
+      "age": 30,
+      "companyId": 3
+    },
+    {
+      "name": "tom",
+      "phone": "333-444-555",
+      "email": "1224893829@qq.com",
+      "id": "4",
+      "age": 30,
+      "companyId": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "google"
+    },
+    {
+      "id": 3,
+      "name": "alibaba"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "userName": "zlz",
+      "token": "123"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "formData": {
+    "type": "",
+    "code": "",
+    "name": "",
+    "resultFormat": "text/number2",
+    "isNull": false,
+    "unit": "",
+    "rangage": "",
+    "memo": ""
+  }
+}
